@@ -1,7 +1,7 @@
 # Site
-title: Halve
+title: chanmi.github.io
 description: Stylish, Two-Column Jekyll Theme
-url: https://taylantatli.github.io/Halve
+url: https://chanmi-github.io
 logo: halve.png                                       # Site logo
 locale: en_US
 
@@ -29,15 +29,15 @@ sass:
 #google-analytics: UA-XXXXX-Y
 
 # Social Links
-#email:             email
+email:             chanmi.kate.lee@gmail.com
 #google.plus:        username
-twitter:            username
+#twitter:            username
 #facebook:           username
-github:             username
-stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
-#linkedin:          username
+github:             chanmi-lee
+#stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
+linkedin:          chanmi-kate-lee
 #xing:              username
-#instagram:          username
+instagram:          chanmi.kate.lee
 #lastfm:            username
 #tumblr:            username
 #pinterest:         username
@@ -52,7 +52,7 @@ stackoverflow:     123456/username   from a "http://stackoverflow.com/users/1234
 #keybase:           username
 #xmpp:              username@server.com
 #hackernews:        username
-behance:           username
+#behance:           username
 
 # Gems
 gems:
