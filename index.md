@@ -1,10 +1,10 @@
 ---
 layout: home
 ---
-# About Theme
+# About Chanmi
 
-This theme is Jekyll port of [vangeltzo.com](http://vangeltzo.com/) (by [Vangelis Tzortzis](https://github.com/srekoble)).
+Currently, Software Engineer at Ernst & Young. Previously worked at Google as Advertiser Technologist and Accenture as Software Internship. 
 
-To learn how to install and use this theme check out the [installation guide](http://taylantatli.me/Halve/halve-theme/) for more information.
+To know who is Chanmi and explore her personal * professional project, check out the [projects](https://chanmi-lee.github.com/projects).
 
-If you have a question, find a bug, or just want to say hi, please open an [issue on GitHub](https://github.com/TaylanTatli/Halve/issues/new).
+If you have aby question, find a bug, or just want to say hi, please contact me anytime.
