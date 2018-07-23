@@ -1,6 +1,6 @@
 # Site
 title: chanmi.github.io
-description: Software Engineer, Front-end
+description: Software Engineer
 url: https://chanmi-lee.github.io
 logo: halve.png                                       # Site logo
 locale: en_US
@@ -26,7 +26,7 @@ sass:
   style:            compressed
 
 # Google Analytics
-#google-analytics: UA-XXXXX-Y
+#google-analytics: UA-122657087-1
 
 # Social Links
 email:             chanmi.kate.lee@gmail.com
