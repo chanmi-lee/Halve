@@ -1,6 +1,6 @@
 - title: chanmi-lee.github.io
   url: https://chanmi-lee.github.io
-  image: https://chanmi-lee.github.io/images/logo_with_girl.png
+  image: https://chanmi-lee.github.io/images/home-image.png
   completed: true
 
 - title: LF Mall Project
@@ -9,11 +9,11 @@
   completed: true
 
 - title: BLS Report Automation
-  url: http://taylantatli.me/Ramme
+  url: http://chanmi-lee.github.io/projects/bls-report-automation
   image: https://chanmi-lee.github.io/images/project-bls-report-automation.png
   completed: true
 
-- title: Vogon (customization of video campaigns on YouTube)
-  url: https://github.com/google/vogon
+- title: Vogon
+  url: https://chanmi-lee.github.io/projects/vogon
   image: https://chanmi-lee.github.io/images/project-vogon.png
   completed: false

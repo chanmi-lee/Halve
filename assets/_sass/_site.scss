@@ -46,7 +46,46 @@ canvas {
   z-index: 0;
 }
 
-.profile-menu-icon, .projects-menu-icon {
+.profile-menu-icon {
+  position: absolute;
+  top: 30px;
+  right: 150px;
+  width: 15px;
+  height: 15px;
+  border: 2px solid $grey;
+  border-radius: 3px;
+  cursor: pointer;
+  z-index: 3;
+  &:before {
+    content: '';
+    position: absolute;
+    left: -19px;
+    top: -2px;
+    width: 15px;
+    height: 15px;
+    border: 2px solid $gray;
+    border-radius: 3px;
+  }
+  &:after {
+    content: '';
+    width: 20px;
+    height: 25px;
+    border: 2px solid $gray;
+    position: absolute;
+    right: 6px;
+    top: 6px;
+    background: $white;
+  }
+  &:hover {
+    border-color: $green;
+    &:before,
+    &:after {
+      border-color: $green;
+    }
+  }
+}
+
+.projects-menu-icon {
   position: absolute;
   top: 30px;
   right: 30px;
