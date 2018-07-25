@@ -3,7 +3,8 @@ layout: home
 ---
 # About Chanmi
 
-Currently, Software Engineer at Ernst & Young. Previously worked at Google as Advertiser Technologist and Accenture as Internship. 
+Currently, Software Engineer at Ernst & Young. 
+Previously worked at Google as Advertiser Technologist and Accenture as Internship. 
 
 To know who is Chanmi and explore her personal/professional projects, check out the [projects](https://chanmi-lee.github.com/projects).
 
