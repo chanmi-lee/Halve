@@ -53,29 +53,8 @@ canvas {
   width: 15px;
   height: 15px;
   border: 2px solid $gray;
-  border-radius: 3px;
+  border-radius: 5px;
   cursor: pointer;
-  z-index: 3;
-  &:before {
-    content: '';
-    position: absolute;
-    left: -19px;
-    top: -2px;
-    width: 15px;
-    height: 15px;
-    border: 2px solid $gray;
-    border-radius: 3px;
-  }
-  &:after {
-    content: '';
-    width: 20px;
-    height: 25px;
-    border: 2px solid $gray;
-    position: absolute;
-    right: 6px;
-    top: 6px;
-    background: $white;
-  }
   &:hover {
     border-color: $green;
     &:before,
@@ -341,7 +320,7 @@ canvas {
 .main-info,
 .about-info {
   text-align: center;
-  max-width: 400px;
+  max-width: 450px;
   width: 100%;
   margin: 0 auto;
   h1,
