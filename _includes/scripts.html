@@ -1,5 +1,6 @@
 <!-- JS -->
 <script src="{{ site.url }}/assets/js/main.min.js"></script>
+<script src="{{ site.url }}/assets/js/nanobar.min.js"></script>
 {% if site.google-analytics %}
 <!-- Asynchronous Google Analytics snippet -->
 <script>
@@ -12,3 +13,12 @@
   ga('send', 'pageview');
 </script>
 {% endif %}
+<!-- nanobar snippet -->
+<script>
+var options = {
+	classname: 'progress-bar',
+	id: 'nano-bar'
+};
+
+var nanobar = new Nanobar(options);
+</script>

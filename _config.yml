@@ -26,7 +26,7 @@ sass:
   style:            compressed
 
 # Google Analytics
-#google-analytics: UA-122657087-1
+google-analytics: UA-122657087-1
 
 # Social Links
 email:             chanmi.kate.lee@gmail.com
