@@ -1,6 +1,6 @@
 # Site
 title: chanmi.github.io
-description: Software Engineer, creative developer
+description: Software Engineer, Web developer
 url: https://chanmi-lee.github.io
 logo: logo.png                                    # Site logo
 locale: en_US
@@ -31,28 +31,14 @@ sass:
 # Social Links
 email:             chanmi.kate.lee@gmail.com
 #google.plus:        username
-#twitter:            username
 #facebook:           username
 github:             chanmi-lee
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
 linkedin:          chanmi-kate-lee
-#xing:              username
 instagram:          chanmi.kate.lee
-#lastfm:            username
-#tumblr:            username
-#pinterest:         username
-#foursquare:        username
-#steam:              username
-#dribbble:          username
 #youtube:           username
 #soundcloud:        username
-#weibo:             username
-#flickr:            username
 #codepen:           username
-#keybase:           username
-#xmpp:              username@server.com
-#hackernews:        username
-#behance:           username
 
 # Gems
 gems:
