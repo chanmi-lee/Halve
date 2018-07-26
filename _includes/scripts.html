@@ -26,20 +26,16 @@ var nanobar = new Nanobar(options);
 nanobar.go(100);
 
 var typed = new Typed(".typed-info", {
-  strings: ['Hi, there!` ^1000\n `I am Chanmi Lee, a web developer living in Seoul.` ^1000\n `I am obviously passionate about `how stuff works` and spending most of my time with people I love, exploring the world and also learning something new! '],
+  strings: ['Hi, there!', 
+            'I am Chanmi Lee, a web developer living in Seoul.', 
+            'I am obviously passionate about `how stuff works` and spending most of my time with people I love, exploring the world and also learning something new!',
+            'Looking for a creative developer?',
+            'or curious about my personal project, check out the projects !'],
   typeSpeed: 40,
   backSpeed: 0,
   smartBackspace: true,
-  loop: false
+  loop: true
 });
 
-var typed2 = new Typed(".typed-info-contact", {
-  strings: ['Looking for a creative developer?', 'or curious about my personal project, check out the projects !'],
-  typeSpeed: 40,
-  backSpeed: 0,
-  startDelay: 100,
-  smartBackspace: true,
-  loop: false
-})
 </script>
 
