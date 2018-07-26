@@ -1,4 +1,4 @@
 ---
 layout: home
 ---
-# CHANMI LEE | WEB DEVELOPER | SEOUL
+# CHANMI LEE * WEB DEVELOPER * SEOUL
