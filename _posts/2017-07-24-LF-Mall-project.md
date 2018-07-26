@@ -43,4 +43,4 @@ LF Mall has its [web site](https://www.lfmall.com/) and also its [mobile site](h
 	{{ site.url }}/images/project-lfmall-mweb-filter-asis.png
 	{{ site.url }}/images/project-lfmall-mweb-filter-tobe.png
 {% endcapture %}
-{% include gallery images=images caption="Screenshots of Halve Theme" cols=3 %}
+{% include gallery images=images caption="Screenshots of LF Mall project" cols=3 %}

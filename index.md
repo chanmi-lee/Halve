@@ -1,4 +1,4 @@
 ---
 layout: home
 ---
-# GET IN TOUCH
+# CHANMI LEE | WEB DEVELOPER | SEOUL
