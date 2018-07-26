@@ -1,6 +1,7 @@
 <!-- JS -->
 <script src="{{ site.url }}/assets/js/main.min.js"></script>
 <script src="{{ site.url }}/assets/js/nanobar.min.js"></script>
+<script src="{{ site.url }}/assets/js/typed.min.js"></script>
 {% if site.google-analytics %}
 <!-- Asynchronous Google Analytics snippet -->
 <script>
@@ -13,7 +14,7 @@
   ga('send', 'pageview');
 </script>
 {% endif %}
-<!-- nanobar snippet -->
+<!-- nanobar & typed js snippet -->
 <script>
 var options = {
 	classname: 'progress-bar',
@@ -21,4 +22,14 @@ var options = {
 };
 
 var nanobar = new Nanobar(options);
+
+nanobar.go(100);
+
+var typed = new Typed(".about-info", {
+  strings: ['Hi, there!^1000\n `I`m Chanmi Lee, a web developer living in Seoul.^1000\n `I`m obviously passionate about `how stuff works` and spending most of my time with people I love, exploring world and also learning something new! '],
+  typeSpeed: 40,
+  backSpeed: 0,
+  loop: false
+});
 </script>
+
