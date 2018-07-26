@@ -1,4 +1,4 @@
 ---
 layout: home
 ---
-# About Chanmi
+# GET IN TOUCH
