@@ -16,4 +16,9 @@
 - title: Vogon
   url: https://chanmi-lee.github.io/projects/vogon
   image: https://chanmi-lee.github.io/images/project-vogon.png
+  completed: true
+
+- title: What's next?
+  url: https://github.com/chanmi-lee
+  image: https://chanmi-lee.github.io/images/project-next.png
   completed: false
