@@ -15,10 +15,16 @@ tag:
 ---
 
 <center><b>LF Mall</b> is one of online e-commerce platforms in South Korea.</center><br>
-     
-LF Mall has its [web site](https://www.lfmall.com/) and also its [mobile site](https://m.lfmall.com/).
 
 ## Preview
+
+<figure class="half">
+{% capture images %}
+	{{ site.url }}/images/project-lfmall-pweb.png
+	{{ site.url }}/images/project-lfmall-pweb-product.png
+{% endcapture %}
+{% include gallery images=images caption="Screenshots of LF Mall (pweb)" cols=2 %}
+</figure>
 
 <figure class="third">
 {% capture images %}
@@ -26,7 +32,20 @@ LF Mall has its [web site](https://www.lfmall.com/) and also its [mobile site](h
 	{{ site.url }}/images/project-lfmall-mweb-product.png
 	{{ site.url }}/images/project-lfmall-mweb-filter.png
 {% endcapture %}
-{% include gallery images=images caption="Screenshots of LF Mall project" cols=3 %}
+{% include gallery images=images caption="Screenshots of LF Mall (mweb)" cols=3 %}
+</figure>
+
+## Description
+LF Mall has its [web site](https://www.lfmall.com/) and also its [mobile site](https://m.lfmall.com/).
+The web/mobile applications is built on Spring framework for handling API requests, with JavaScript/jQuery/Thymeleaf.
+
+<figure class="third">
+{% capture images %}
+	{{ site.url }}/images/ElasticSearch.png
+	{{ site.url }}/iamges/jquery.png
+	{{ site.url }}/images/Thymeleaf.png
+{% endcapture %}
+{% include gallery images=images caption=" " cols=3 %}
 </figure>
 
 ## Period
