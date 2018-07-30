@@ -40,10 +40,10 @@ This application interacts with ElasticSearch, which requests information from p
 <figure class="third">
 {% capture images %}
 	{{ site.url }}/images/ElasticSearch.png
-	{{ site.url }}/iamges/jQuery.png
+	{{ site.url }}/images/jQuery.png
 	{{ site.url }}/images/Thymeleaf.png
 {% endcapture %}
-{% include gallery images=images caption=" " cols=3 %}
+{% include gallery images=images caption="" cols=3 %}
 </figure>
 
 ## Period
