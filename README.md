@@ -6,7 +6,7 @@ If you have a question, find a bug, or just want to say hi, please open an [issu
 
 ## Preview
 ![screenshot of Home](/images/home-image.png)
-[screenshot of posts](/images/home-posts.png)
-[screenshot of project](/images/home-project.png)
+![screenshot of posts](/images/home-posts.png)
+![screenshot of project](/images/home-project.png)
 
 crafted using [Jeykell](https://jekyllrb.com/), [jQuery](https://jquery.com/), [Magnific Popup](http://dimsemenov.com/plugins/magnific-popup/), [Typed.js](https://mattboldt.com/typed.js/) and [FitVids.JS](http://fitvidsjs.com/)
