@@ -20,8 +20,6 @@ LF Mall has its [web site](https://www.lfmall.com/) and also its [mobile site](h
 
 ## Preview
 
-{% highlight liquid %}
-{% raw %}
 {% capture images %}
 	{{ site.url }}/images/project-lfmall-mweb.png
 	{{ site.url }}/images/project-lfmall-mweb-filter.png
@@ -29,8 +27,6 @@ LF Mall has its [web site](https://www.lfmall.com/) and also its [mobile site](h
 	{{ site.url }}/images/project-lfmall-mweb-filter-tobe.png
 {% endcapture %}
 {% include gallery images=images caption="Screenshots of LF Mall project" cols=4 %}
-{% endraw %}
-{% endhighlight %}
 
 ## Period
 * 2017-07 ~ 2018.06 (1 year)
