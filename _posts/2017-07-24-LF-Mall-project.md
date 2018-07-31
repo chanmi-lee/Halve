@@ -2,7 +2,7 @@
 layout: post
 title:  "LF Mall Project"
 date:   2017-07-24
-image: "https://chanmi-lee.github.io/images/lf-logo.png"
+image: "https://chanmi-lee.github.io/images/project-lf.png"
 excerpt: "Online e-commerce platform"
 tag:
 - Java
