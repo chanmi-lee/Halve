@@ -43,11 +43,13 @@ Being able to deliver a report to each client quickly is important and also auto
 
 ### Used skills
 
-<figure class="third">
-{% capture images %}
-	{{ site.url }}/images/appsscript.png
-	{{ site.url }}/images/google-slide.png
-	{{ site.url }}/images/chartjs.png
-{% endcapture %}
-{% include gallery images=images caption="" cols=3 %}
-</figure>
+<div class="project-skill">
+	<figure class="third">
+		{% capture images %}
+			{{ site.url }}/images/appsscript.png
+			{{ site.url }}/images/google-slide.png
+			{{ site.url }}/images/chartjs.png
+		{% endcapture %}
+		{% include gallery images=images caption="" cols=3 %}
+	</figure>
+</div>
