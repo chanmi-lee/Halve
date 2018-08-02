@@ -30,6 +30,14 @@ $(document).ready(function() {
   }
 });
 
-var options = {};
+var options = {
+  id: 'chanmi.kate.lee' // REQUIRED;
+};
+
+// Initialize the embedded chat widget
 Botkit.boot(options);
+
+// Trigger the execution of a botkit studio script
+Botkit.triggerScript('help', 'help_with_checkout');
+
 </script>    
