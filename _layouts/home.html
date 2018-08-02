@@ -36,8 +36,15 @@ layout: compress
       </div>
     </div>
   </div>
+
+  <div id="embedded_messenger">
+    <header id="message_header" onclick="Botkit.toggle()">Chat</header>
+    <iframe id="botkit_client" src="{{ site.url }}/chat"></iframe>
+  </div>
+
   {% include overlay.html %}
   {% include scripts.html %}
   <script src="{{ site.url }}/assets/js/canvas.js"></script>
+  <script src="{{ site.url }}/assets/js/embed.js"></script>
 </body>
 </html>
