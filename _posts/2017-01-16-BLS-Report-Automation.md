@@ -39,8 +39,8 @@ Thanks to this report automation tool, all you have to do is just type the uniqu
 Being able to deliver a report to each client quickly is important and also automating the reports eliminates the manual errors that inevitably happen from time to time.
 
 ![overview]({{ site.url }}/images/project-bls-overview.png "Overview of BLS Automation project")
-> :v: The total number of this automated template is over 1,400 :sunglasses:
-> Also, more than 30 people gave me 4.5 out of 5 starts ! :sparkles:
+> The total number of this automated template is over 1,400 
+> Also, more than 30 people gave me 4.5 out of 5 starts !
 
 ![template]({{ site.url }}/images/project-bls-template.png "Basic template of BLS Automation project")
 
