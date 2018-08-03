@@ -2,5 +2,5 @@
 layout: chat
 title: chat
 description: "chat"
-permalink: /chat.html
+permalink: {{ site.url }}{% link _layouts/chat.html %}
 ---
