@@ -43,17 +43,6 @@ layout: chat
                               <a href="{{{ message.open_link }}}" target="_blank" class="button_message">{{#if message.link_title}}{{message.link_title}}{{else}}{{message.open_link}}{{/if}}</a>
                             {{/if}}
                         </div>
-
-                        <!-- if the files field is present in the message, render links to attached files -->
-                        {{#message.files}}
-                          <div class="file_attachment">
-                          {{#if image}}
-                            <img src="{{{url}}}" alt="{{{url}}}" />
-                          {{else}}
-                            <a href="{{{url}}}" title="{{{url}}}">{{{url}}}</a>
-                          {{/if}}
-                          </div>
-                        {{/message.files}}
                     </div>
                 </div>
             </section>
