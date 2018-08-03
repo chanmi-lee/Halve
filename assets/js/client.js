@@ -479,7 +479,5 @@
     (function() {
       // your page initialization code here
       // the DOM will be available here
-      if ( $(".embedded_messenger").length) {
-        Botkit.boot({});
-      }
+      Botkit.boot();
     })();
