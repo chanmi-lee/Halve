@@ -14,7 +14,7 @@ tag:
 - MySql
 ---
 
-## :mag: Preview
+## Preview
 <figure class="half">
 {% capture images %}
 	{{ site.url }}/images/project-lfmall-pweb.png
@@ -32,7 +32,9 @@ tag:
 </figure>
 <center><b>LF Mall</b> is one of online e-commerce platforms in South Korea.</center><br>
 
-### :pushpin: Description
+---
+
+### Description
 LF Mall has its [web site](https://www.lfmall.com/) and also its [mobile site](https://m.lfmall.com/).
 The web/mobile applications is built on Spring framework for handling API requests, with JavaScript/jQuery/Thymeleaf.
 This application interacts with ElasticSearch, which requests information from products and those properties like price, brands, colors, and so on. 
@@ -46,10 +48,14 @@ This application interacts with ElasticSearch, which requests information from p
 {% include gallery images=images caption="" cols=3 %}
 </figure>
 
-### :date: Period
+---
+
+### Period
 * 2017-07 ~ 2018.06 (1 year)
 
-### :hammer: Used skills
+---
+
+### Used skills
 `Back-end`
 * Java (Spring framework)
 

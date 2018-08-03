@@ -6,12 +6,12 @@ image: "https://chanmi-lee.github.io/images/project-bls.png"
 excerpt: "Report automation tool"
 tag:
 - Apps Script
-- Google APIs (Slide, Charts, Analytics)
+- Google APIs
 - Chart.js
 - Google SQL
 ---
 
-## :mag: Preview
+## Preview
 
 <figure class="half">
 {% capture images %}
@@ -21,7 +21,7 @@ tag:
 {% include gallery images=images caption="Screenshots of BLS Report automation" cols=2 %}
 </figure>
 
-### :pushpin: Description
+### Description
 
 Google's BLS (Brand Lift Survey) is a measurement to measure the impact of online brand campaign with YouTube video ads. 
 About a day after seeing (or not seeing) the ad, a brief survey is delivered to both of the groups.
@@ -44,10 +44,12 @@ Being able to deliver a report to each client quickly is important and also auto
 
 ![template]({{ site.url }}/images/project-bls-template.png "Basic template of BLS Automation project")
 
+---
+
 ### :date: Period
 * 2017-01 ~ 2017.02 (4 weeks)
 
-### :hammer: Used skills
+### Used skills
 
 <figure class="third">
 	{% capture images %}
