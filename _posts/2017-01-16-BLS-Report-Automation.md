@@ -42,20 +42,25 @@ Being able to deliver a report to each client quickly is important and also auto
 > The total number of this automated template is over 1,400 
 > Also, more than 30 people gave me 4.5 out of 5 starts !
 
+The basic template of BLS is as follows: 
 ![template]({{ site.url }}/images/project-bls-template.png "Basic template of BLS Automation project")
+With this tool, the only thing you have to do is just typing the unique campaign ID.
+The benefits of automated report are productivity, cost/effort reduction, and performance.
 
 ---
 
-### :date: Period
+### Period
 * 2017-01 ~ 2017.02 (4 weeks)
 
 ### Used skills
 
-<figure class="third">
-	{% capture images %}
-		{{ site.url }}/images/appsscript.png
-		{{ site.url }}/images/google-slide.png
-		{{ site.url }}/images/chartjs.png
-	{% endcapture %}
-	{% include gallery images=images caption="" cols=3 %}
-</figure>
+<div class="project-skill">
+	<figure class="third">
+		{% capture images %}
+			{{ site.url }}/images/appsscript.png
+			{{ site.url }}/images/google-slide.png
+			{{ site.url }}/images/chartjs.png
+		{% endcapture %}
+		{% include gallery images=images caption="" cols=3 %}
+	</figure>
+</div>
